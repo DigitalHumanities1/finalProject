@@ -1,0 +1,107 @@
+var locations = ['OWSZOWICZ','ABEND','ACHTENBERG','AJCHNER','AKERMAN','AKSELROD','ALTER','ALTMAN','AMADA','ANZUBEL','BAKLARZ','BAKOWSKI','BALTYTTA','BARASZ','BARHOLZ','BARON','BARTEN','BAUER','BAUMINGER','BEATUS','BEER','BEGLEITER','BEGLIAITER','BEKER','BEKERMAN','BEKIER','BEKIERMAN','BELMAN','BERKOWICZ','BERTMAN','BESSER','BIELOUS','BIRNER','BLACHMAN','BLASBALD','BLASENSTEIN','BLAU','BLUM','BORENSZTEIN','BORKOWICZ','BORTMAN','BRAJTMAN','BRAMSON','BRANDT','BRAUN','BRENNER','BRIGEL','BRIK','BRILMAN','BRONSTEJN','BRUDER','BRUSS','BUKI','BURSTYN','BURSZTYN','BUTMAN','BUTTERTEIG','CELNIKER','CESLER','CHILIM','CHIVEN','CYMERMAN','CYNADERKA','CYTRYN','CYTRYNOWICZ','CZERWONOGORA','DATTNER','DEMBOWICZ','DIAMANT','DICKER','DON','DORN','DORNER','DRUCKER','DRUT','DUCZKOWSKA','DURATMAN','EICHEN','EISENBERG','EISNER','EKSTEIN','ELBAUM','ELKES','ELSOHN','ENOCH','ERLICH','ESTLEIN','FABRYKANT','FAJLER','FALNER','FALUMIN','FARS','FEDERMAN','FEFERLING','FEIT','FELDMAN','FELDSTEIN','FELMAN','FELZAN','FENSTER','FERSTER','FEYGENBAUM','FIBKO','FIGATNER','FINDLING','FINK','FINKELSTEIN','FISZBEIN','FISZELBERG','FISZERMAN','FLAMENBAUM','FLAUMIN','FLEISIG','FOGIEL','FORMAN','FORST','FRENKEL','FRIDLAND','FRIDMAN','FRIEDMAN','FRYDER','FRYDMAN','FRYMERMAN','FRYSEMAN','FUHRER','GAJER','GALAZKA','GALER','GALINA','GANS','GARTEN','GEDENKEN','GEDZISZEW','GEJBLUM','GELLER','GERBER','GERO','GERTEN','GESTERN','GESUNDCHAJT','GITER','GLAJCHER','GLESER','GLIKSBERG','GOFER','GOLAMB','GOLDBERG','GOLDENZON','GOLDMAN','GOLDSCHMIDT','GOLDSZTEIN','GOLOWIEJ','GOLZAKER','GORNY','GORZEWSKA','GRAF','GRAJCER','GRAJZER','GRANATOWICZ','GROCHOWSKA','GROSS','GROSSFELD','GRYNBERG','GURMAN','GUTERMAN','GUTTMAN','GWANT','HABER','HAGLER','HAJBLUM','HAJSZUBER','HALBERSTAT','HALPERN','HAMBURG','HASSMAN','HELFMAN','HELMAN','HENIS','HERBATMAN','HERBST','HERING','HERMAN','HOCH','HOCHMAN','HOCHMEISTER','HOFERT','HOLENDER','HOLZER','HORLAND','HORN','HORNING','HOROWIC','HOROWICZ','HUBERMAN','HUPERT','IGDAL','IROM','JAFFA','JAROSLAWICZ','JEGIER','JEROSLOWICZ','JEZIOR','JUWAN','KAC','KACMAN','KAGANOWICZ','KAJL','KELMAN','KAMER','KAMINER','KANER','KARTAGENER','KASTENBAUM','KASTENBERG','KAUFMAN','KAWER','KEMPLER','KENING','KINSTLER','KINSTLICH','KIRSZBAUM','KLAJNZAHLER','KLAPHOLC','KLEINBERG','KLEJN','KLIPSZTEIN','KLUKOWSKI','KNOBEL','KOCHMAJSTER','KOCHN','KOKIER','KOLDRA','KOPEC','KORENBLIT','KORENFELD','KORMAN','KORONA','KORZANIK','KOWEN','KRAJTNER','KRAM','KRAMBAJN','KRANC','KRAUZE','KRESZ','KRIEGER','KRUK','KRZEMIEN','KUPFER','KUPFERSZMIDT','KURC','KURZMAN','LABIN','LAJBEL','LAJST','LAKS','LAMPEL','LANDAU','LANGBAUM','LANGER','LANGSAM','LANSTEIN','LAUFER','LAUFMAN','LEDER','LEFLER','LEHLER','LEMPEL','LERMAN','LERNER','LEWIN','LEWSON','LIBER','LIEBER','LINDENBAUM','LIPMAJSTER','LIPMAN','LIPOWICZ','LIPSKA','LIPSZTER','LIPSZYC','LITMAN','LITMANOWICZ','LITNER','LOEWENSTEIN','LOTER','LOTRINGER','LUFTSZPRINGER','MAIL','MAJER','MAJMAN','MAMER','MANDERMAN','MANES','MARGIEL','MARILES','MELNIK','MENCEL','MENGEL','MERIOWICZ','MESSER','MILCH','MILER','MILGROM','MILLER','MINTKEWICZ','MLAWER','MOJTEK','MONDSZAJN','MONTAG','MORDECHELEWICZ','MORGENSZTEIN','MROCKA','MROCKI','MUENZER','NACHT','NAJMAN','NALBERG','NARENZEIFELD','NATANSON','NEUGEBOREN','NEUMAN','NEUMANN','NIEWIADOMSKI','NUSSBAUM','OBERWAJS','OGRODOWSKA','OKSENGOREN','OLEG','ORBACH','PALIWODA','PECH','PELC','PENCER','PERELGRIC','PERLMUTER','PERMUT','PIMET','PIORA','PLASKOW','PLONSKI','POLER','POTASZ','POTASZNIK','PTAKIEWICZ','PUSCH','RABINOWICZ','RABKA','RAJBUDA','RAJF','RAJFIN','RAJTMAN','RANGEWITZ','RICHTER','RIEGELHAUPT','RING','ROBINSON','ROJEK','ROSENBAND','ROT','ROTER','ROTMAN','ROTSZTEIN','ROZEN','ROZENBAUM','ROZENBERG','ROZENBLIT','ROZENCWAJG','ROZENWASSER','RUBESON','RUBINSON','RUBINSTEIN','SAPOZNIK','SCHIPPER','SCHUERZ','SCHWARZ','SEGAL','SERLIK','SILBER','SILBERSTEIN','SINGER','SLEPAKOWSKI','SMIETANKA','SOBOL','SPALTER','STAJNWURCEL','STAROSWIECKI','STEPEL','STIGLITZ','STOLZMAN','STRIKA','SZAC','SZAJMAN','SZAJN','SZAJNER','SZARF','SZENKIELBACH','SZERER','SZLAF','SZLOSBERG','SZMULEWICZ','SZNAJD','SZNAJDER','SZNAJDERMAN','SZNEL','SZOR','SZPAC','SZPIGELMAN','SZPONER','SZRAJBER','SZTAJBERG','SZTAJFELER','SZTAJNBERG','SZTAJNSKI','SZTAR','SZTERN','SZTOJERMAN','SZUS','SZWAMENFELD','SZWANGWURCEL','SZWARC','SZWEBER','SZYFER','TEITEL','TEITELBAUM','TELERMAN','TENCER','TENENBAUM','TEPER','TOCHSZNAJDER','TOJBER','TOP','TREMBLINSKA','TURNER','TYK','WAGNER','WAGSCHAL','WAINSTEIN','WAJA','WAJDENFELD','WAJNBERG','WAJNER','WAJNGLAS','WALD','WALDMAN','WALDNER','WALISZWEWER','WASSERSTROM','WEDKA','WEINSTEIN','WEINTRAUB','WEKSLER','WERNER','WIDENFELD','WIEWIORKA','WILD','WINTER','WISLICKI','WLODAWEK','WOLFEILER','WOLKENFELD','WOLKOWICZ','WOLOZNY','WROBAL','WUHL','WURCELMAN','WURM','WURMAN','WYDRA','YAM','YISMOCH','ZACHAREWICZ','ZAJAC','ZAJDEL','ZAJDMAN','ZALCBERG','ZAMOJRE','ZAWIERUCHA','ZELIKAJT','ZELKOWICZ','ZIBCENER','ZILBER','ZUCHMAN','ZUSEL','ZUSMAN','ZUZEL','ZWIEBEL','ZWIRN','ZYBCENER','ZYBELMAN','ZYLBERFADEN','ZYLBERMAN','ZYNSTEIN','ZYRA'];
+
+
+/*function initMap() {
+	var uluru = {lat: -25.363, lng: 131.044};
+	var home = {lat: 32.0883117, lng: 34.7723122};
+	var map = new google.maps.Map(document.getElementById('map'), {
+	  zoom: 4,
+	  center: uluru
+	});
+	var marker = new google.maps.Marker({
+	  position: uluru,
+	  map: map
+	});
+	var marker = new google.maps.Marker({
+	  position: home,
+	  map: map
+	});
+}
+*/
+
+
+
+function populateArray(){
+	
+	var newArray = [];
+	for(var i=0;i<locations.length;i++){
+		//newArray.push(addToArray(i,locations[i])); 
+		//addToArray(i,locations[i]);
+	}
+	//console.log(newArray);
+}
+
+function addToArray(i, address){
+	var geocoder = new google.maps.Geocoder();
+
+	geocoder.geocode( { 'address': address}, function(results, status) {
+		if (status == google.maps.GeocoderStatus.OK) {
+			var latitude = results[0].geometry.location.lat();
+			var longitude = results[0].geometry.location.lng();
+			var arr = [address,latitude,longitude,i];
+			console.log(arr);
+			//return arr;
+		}
+	});	
+}
+
+
+
+function initMap() {
+	
+var geocoder = new google.maps.Geocoder();
+var address = "Poland";
+
+geocoder.geocode( { 'address': address}, function(results, status) {
+	if (status == google.maps.GeocoderStatus.OK) {
+		var latitude = results[0].geometry.location.lat();
+		var longitude = results[0].geometry.location.lng();
+		drawMap(latitude,longitude);
+	}
+});
+}
+
+
+function drawMap(latitude,longitude){
+	var myLatLng = {lat: latitude, lng: longitude};
+	var map = new google.maps.Map(document.getElementById('map'), {
+		zoom: 10,
+		center: myLatLng
+	});
+	
+	for (var i=0; i<locations.length; i++){
+		var address = locations[i];
+	
+		var marker = new google.maps.Marker({
+		position: myLatLng,
+		map: map,
+		title: 'Hello World!'
+	});
+	
+/*	
+	var marker, i;
+	for (i = 0; i < locations.length; i++) {  
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+        map: map
+      });
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(locations[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+	
+*/
+	
+	
+	
+}
+	
+	
+	
+	
+
+}
